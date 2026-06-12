@@ -1,0 +1,10 @@
+name: CraftPay-Notify
+description: $description
+version: '${version}'
+
+main: pl.kkrpro.craftPayNotify.Main
+api-version: '1.21.1'
+load: POSTWORLD
+
+authors: [ kkrpro ]
+website: kkrpro.dev
